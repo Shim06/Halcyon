@@ -2,9 +2,8 @@
 
 **A Minimal, Low-Power Hi-Fi Walkman**
 
-Halcyon is an open-source, wired-only, physical-button digital audio player in a Walkman form factor.
+Halcyon is an open-source, wired-only, physical-button digital audio player in a Walkman form factor. Inspired by the Persona 3 Walkman and its real-life equivalent, the Sony NW-S203F.
 
-Inspired by the Persona 3 Walkman and its real-life equivalent, the Sony NW-S203F.
 Halcyon is available on GitHub under the <a href="https://github.com/Shim06/Halcyon/blob/main/LICENSE" target="_blank">GNU General Public License v3.0 (GPLv3)</a>.
 
 > **Status: early development.** Firmware is being prototyped on an STM32F411 Black Pill. The custom board and enclosure is not designed yet.
