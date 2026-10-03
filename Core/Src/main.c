@@ -133,11 +133,11 @@ int main(void)
 
     mount_SD();
     // Build all music indexes and navigation index
-    {
-        FRESULT fr;
-        fr = index_build();
-        if (fr != FR_OK) Error_Handler();
-    }
+//    {
+//        FRESULT fr;
+//        fr = index_build();
+//        if (fr != FR_OK) Error_Handler();
+//    }
 
     player_init(&hi2s3);
     player_play();
